@@ -74,7 +74,5 @@ namespace port_man
             Console.WriteLine("Timer triggered!");
         }
 
-
-
     }
 }
