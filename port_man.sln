@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "port_man", "port_man.csproj", "{90A1A8CE-D8D0-47FB-A60D-5B85AE9CC99F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{90A1A8CE-D8D0-47FB-A60D-5B85AE9CC99F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90A1A8CE-D8D0-47FB-A60D-5B85AE9CC99F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90A1A8CE-D8D0-47FB-A60D-5B85AE9CC99F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90A1A8CE-D8D0-47FB-A60D-5B85AE9CC99F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4D696AC6-E1D6-42C5-9AE5-32581832DB70}
+	EndGlobalSection
+EndGlobal
